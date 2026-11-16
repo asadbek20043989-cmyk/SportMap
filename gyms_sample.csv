@@ -1,0 +1,9 @@
+id,name,district,address,lat,lon,phone,tg_username,owner_tg_id,hours,prices,price_month,amenities,photos,free_trial,notes,active
+chil-power,Power Gym Chilonzor,Chilonzor,"Chilonzor 9-kvartal, 14-uy",41.2755,69.2040,+998 90 100 00 01,powergym_demo,,06:00-23:00,1 oy: 350 000 so'm; 3 oy: 900 000 so'm,350000,"Trenajyor zali, kardio zona, shtanga, gantellar, kiyinish xonasi, dush",,ha,Yakshanba kuni 08:00-20:00 ishlaydi,ha
+chil-fit,FitLife Chilonzor,Chilonzor,"Bunyodkor shoh ko'chasi, 22",41.2790,69.2150,+998 90 100 00 02,,,07:00-22:00,1 oy: 280 000 so'm; 6 oy: 1 400 000 so'm,280000,"Aerobika, zumba, yoga, guruh mashg'ulotlari",,yo'q,,ha
+yunus-iron,Iron House Yunusobod,Yunusobod,"Amir Temur shoh ko'chasi, 105",41.3660,69.2870,+998 90 100 00 03,ironhouse_demo,,06:00-24:00,1 oy: 450 000 so'm; 3 oy: 1 200 000 so'm,450000,"Trenajyor, erkin og'irlik, powerlifting zonasi, sauna, basseyn",,ha,"Bepul sinov: 1 marta, ro'yxatdan o'tgan holda",ha
+yunus-yoga,Zen Yoga & Pilates,Yunusobod,"Minor mahallasi, 7",41.3550,69.2790,+998 90 100 00 04,,,08:00-21:00,1 oy: 400 000 so'm,400000,"Yoga, pilates, stretching, massaj",,yo'q,Faqat guruh mashg'ulotlari,ha
+mirobod-cross,CrossBox Mirobod,Mirobod,"Mirobod ko'chasi, 31",41.2990,69.2800,+998 90 100 00 05,,,06:00-22:00,1 oy: 500 000 so'm,500000,"Crossfit, HIIT, kardio, guruh mashg'ulotlari",,ha,,ha
+ulugbek-pool,AquaFit Mirzo Ulug'bek,Mirzo Ulug'bek tumani,"Mirzo Ulug'bek ko'chasi, 48",41.3380,69.3350,+998 90 100 00 06,aquafit_demo,,07:00-23:00,1 oy: 600 000 so'm; 3 oy: 1 600 000 so'm,600000,"Basseyn, sauna, hammom, kardio, spa",,yo'q,,ha
+sergeli-gym,Sergeli Sport Club,Sergeli,"Yangi Sergeli ko'chasi, 5",41.2260,69.2200,+998 90 100 00 07,,,06:00-22:00,1 oy: 220 000 so'm,220000,"Trenajyor, shtanga, gantellar",,ha,,ha
+olmazor-old,Old School Gym,Olmazor,"Olmazor ko'chasi, 12",41.3500,69.2500,+998 90 100 00 08,,,09:00-21:00,1 oy: 200 000 so'm,200000,Trenajyor,,yo'q,Vaqtincha yopilgan,yo'q
